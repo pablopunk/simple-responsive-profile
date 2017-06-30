@@ -1,7 +1,6 @@
 
 function listItemClicked(event) {
   var link = event.target.querySelector('a').href
-  console.log(link)// window.location.href = link
 }
 
 document.querySelectorAll('.link-list li').forEach(function (el) {
