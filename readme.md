@@ -2,7 +2,7 @@
 
 > Made with Flexbox and [codepen.io](https://codepen.io)
 
-[Try it right now!](http://pablopunk.com/simple-responsive-profile/)
+[Try it right now!](https://codepen.io/pablopunk/project/full/ZExLWG)
 
 Also, you can [make your own](https://codepen.io/pablopunk/project/editor/ZExLWG/)
 
